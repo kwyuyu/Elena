@@ -10,7 +10,7 @@ Nabigation systems optimize for the shortest or fastest route. However, they do 
 
 ## Demo
 
-The webpage is demonstrated in [here](https://kwyuyu.github.io/Elena-fronend/).
+The webpage is demonstrated in [here](https://kwyuyu.github.io/Elena-frontend/).
 
 ### Notes
 * The backend server is currently offline.
