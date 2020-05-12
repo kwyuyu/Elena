@@ -1,0 +1,6 @@
+[submodule "Elena-frontend"]
+	path = Elena-frontend
+	url = https://github.com/kwyuyu/Elena-frontend
+[submodule "Elena-backend"]
+	path = Elena-backend
+	url = https://github.com/kwyuyu/Elena-backend
