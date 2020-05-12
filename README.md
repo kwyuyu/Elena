@@ -13,5 +13,4 @@ Nabigation systems optimize for the shortest or fastest route. However, they do 
 The webpage is demonstrated in [here](https://kwyuyu.github.io/Elena-frontend/).
 
 ### Notes
-* The backend server is currently offline.
 * For demonstration purpose, the geo data is limited. The valid coordinates are within blue bounding box.
