@@ -10,7 +10,7 @@ Nabigation systems optimize for the shortest or fastest route. However, they do 
 
 ## Demo
 
-The webpage is demonstrated in [here](https://kwyuyu.github.io/Elena-frontend/). (Backend service has been closed to safe money (deploy on AWS beanstalk))
+The webpage is demonstrated in [here](https://kwyuyu.github.io/Elena-frontend/). (I've closed the backend service to safe money (it was deployed on AWS beanstalk))
 
 ### Notes
 * For demonstration purpose, the geo data is limited. The valid coordinates are within blue bounding box.
